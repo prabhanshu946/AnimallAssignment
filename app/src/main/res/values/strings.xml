@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimallAssignment</string>
+    <string name="default_profile">default profile</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="team">Team</string>
+    <string name="no_content_to_show">No content to show</string>
+</resources>
